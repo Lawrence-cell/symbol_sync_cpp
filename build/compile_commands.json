@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yangguang/Desktop/SymbolSync/build",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -I/home/yangguang/Desktop/gnuradio/gr-digital/lib -I/home/yangguang/Desktop/gnuradio/gr-filter/include  -g   -std=gnu++17 -o CMakeFiles/test_env.dir/binay_read_test.cpp.o -c /home/yangguang/Desktop/SymbolSync/binay_read_test.cpp",
+  "file": "/home/yangguang/Desktop/SymbolSync/binay_read_test.cpp"
+}
+]

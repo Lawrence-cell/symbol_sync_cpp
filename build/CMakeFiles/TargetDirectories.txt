@@ -1,0 +1,3 @@
+/home/yangguang/Desktop/SymbolSync/build/CMakeFiles/rebuild_cache.dir
+/home/yangguang/Desktop/SymbolSync/build/CMakeFiles/edit_cache.dir
+/home/yangguang/Desktop/SymbolSync/build/CMakeFiles/test_env.dir
